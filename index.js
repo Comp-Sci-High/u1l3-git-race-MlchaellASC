@@ -8,6 +8,6 @@ console.log("chocolate chip cookie")
 // Stage and commit this change with an appropriate message
 // Task 3
 // Print your favorite artist
-
+console.log("kendrick lamar")
 // Stage and commit this change with an appropriate message
 // Go to more.js
